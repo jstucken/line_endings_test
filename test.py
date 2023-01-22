@@ -5,3 +5,4 @@
 #... shows 'ASCII text, with CRLF line terminators'
 
 # editing from Ubuntu CLI again with LF line endings...
+# change to LF using VSCODE

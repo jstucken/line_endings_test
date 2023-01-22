@@ -6,3 +6,5 @@
 
 # editing from Ubuntu CLI again with LF line endings...
 # change to LF using VSCODE
+
+# change to CRLF using VSCODE
